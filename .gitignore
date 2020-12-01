@@ -1,2 +1,17 @@
 build
 *.sublime-workspace
+
+# MSVC project files:
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.sdf
+*.opensdf
+*.suo
+
+# MSVC build files:
+*.lib
+*.obj
+*.tlog/
+*.pdb
